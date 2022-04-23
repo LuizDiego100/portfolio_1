@@ -20,13 +20,13 @@ header img{
     width: 200px;
     height: 200px;
     border-radius: 60%;
-    border: 5px solid blue;
+    border: 5px solid rgb(41, 79, 184);
 }
 .center {
     text-align: center;
 }
 h1{
-    color: rgb(43, 43, 170);
+    color: rgb(30, 66, 145);
 }
 footer img{
     width: 40px;
@@ -57,9 +57,12 @@ h3{
 }
 .contact-form input[type=text] {
     height: 100px;
+    width: 100%;
+    padding: 8px 0px;
+    margin: 8px 0px;
 }
 button {
-    background-color: white;
+    background-color: rgba(238, 206, 206, 0.747);
     border: none;
     width: 100px;
     height: 30px;
